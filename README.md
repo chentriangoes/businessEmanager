@@ -1,4 +1,4 @@
-# 🖥 HRManagement
+# 🖥 BusinessEmanagement
 A back end app providing e-Managerial Services for all Sorts of Business to use
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
